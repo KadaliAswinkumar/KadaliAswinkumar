@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadaliaswinkumar&label=Profile%20views&color=0e75b6&style=flat" alt="kadaliaswinkumar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kadaliaswinkumar" target="blank"><img src="https://img.shields.io/twitter/follow/kadaliaswinkumar?logo=twitter&style=for-the-badge" alt="kadaliaswinkumar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kadali76" target="blank"><img src="https://img.shields.io/twitter/follow/kadali76?logo=twitter&style=for-the-badge" alt="kadaliaswinkumar" /></a> </p>
 
 - 🌱 I’m currently learning ... Data Science
 - 👨‍ I'm currently student at GMR Institute Of Technology, pursuing my B.Tech Degree
