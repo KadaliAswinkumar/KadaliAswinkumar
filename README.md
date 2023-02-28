@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @KadaliAswinkumar
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning CSE in GMRIT
-- 💞️ I’m more passionate about ML, DL, DS, AI
-- 📫  Reach me at kadaliaswinkumar143@gmail.com
