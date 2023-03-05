@@ -21,7 +21,7 @@
 - 🥺 I’m looking for help with ... Django, Flask
 - 📫 How to reach me: ... kadaliaswinkumar143@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am a painter, artist and a penman
+- ⚡ Fun fact: ...I am a writer, actor and a gymrat
 
 <br>
 <br>
