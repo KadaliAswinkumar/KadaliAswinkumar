@@ -6,7 +6,7 @@
 </head>
 
 <div align="top">
-  <img align="right" src="https://github.com/KadaliAswinkumar/Practice/blob/main/ezgif.com-gif-maker.gif" width="300" height="300" />
+  <img align="right" src="https://github.com/BadagalaAdarsh/Practice/blob/main/ezgif.com-gif-maker.gif" width="300" height="300"/>
 </div>
 
 
