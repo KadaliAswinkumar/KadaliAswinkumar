@@ -1,11 +1,11 @@
 ## Hi 👋 I’m Kadali Aswin Kumar  
-### Tech Innovator & Startup Builder | SDE I @Amagi | Data Science, AI & Full-Stack Enthusiast | Turning Big Ideas into Reality
+### Software Development Engineer @ Amagi | Backend & Data Engineer | Builder with a Founder’s Mindset  
 
 💡 **Dreamer. Builder. Doer.** 💡  
 
 I live at the intersection of **technology, scale, and entrepreneurship** — where ambitious ideas meet disciplined execution.
 
----
+<br/>
 
 <div align="top">
   <img align="right" alt="Coding GIF" src="https://github.com/bhav09/bhav09/blob/master/gif.gif" width="360"/>
@@ -21,32 +21,34 @@ I live at the intersection of **technology, scale, and entrepreneurship** — wh
   </a>
 </p>
 
----
+<br/>
 
 ## 🧠 About Me
 
-I’m a **Software Development Engineer at Amagi** with **1+ years of real-world production experience**, building and operating systems that handle scale, data, and complexity.
+I’m a **Software Development Engineer at Amagi** with **over a year of production experience**, building and operating systems that handle scale, data, and real-world complexity.
 
-I thrive in **fast-moving, high-ownership environments** and enjoy working close to the problem — from design and implementation to debugging and optimization in production.
+I thrive in **fast-moving, high-ownership environments** and enjoy working close to the problem — from design and implementation to production debugging and optimization.
 
 I don’t just write code.  
 I think in **systems**, **trade-offs**, and **long-term impact**.
 
-What excites me most is **building products from scratch**, improving existing systems, and solving problems that actually matter. I naturally operate with a **founder’s mindset** — questioning assumptions, pushing for simplicity, and always asking *“How do we make this better?”*
+What excites me most is **building products from scratch**, improving existing systems, and solving problems that actually matter. I naturally operate with a **founder’s mindset** — questioning assumptions, pushing for simplicity, and always asking:
 
----
+> *“How do we make this better, faster, and more scalable?”*
+
+<br/>
 
 ## 🔥 What I Do Best
 
 - Build **scalable backend and data-intensive systems**
-- Design **robust data pipelines** and processing workflows
+- Design and maintain **robust data pipelines**
 - Write clean, maintainable, production-grade code
 - Think beyond tickets — **own problems end-to-end**
 - Move comfortably between **engineering, product, and execution**
 
 I enjoy ambiguity, take responsibility seriously, and learn aggressively.
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -59,7 +61,7 @@ I enjoy ambiguity, take responsibility seriously, and learn aggressively.
   <img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white"/>
 </p>
 
----
+<br/>
 
 ### ⚙️ Backend & Data Engineering
 <p>
@@ -74,7 +76,17 @@ I enjoy ambiguity, take responsibility seriously, and learn aggressively.
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white"/>
 </p>
 
----
+<br/>
+
+### 🗄️ Databases & Warehousing
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Athena-232F3E?logo=amazonaws&logoColor=white"/>
+</p>
+
+<br/>
 
 ### ☁️ Cloud, Infrastructure & Orchestration
 <p>
@@ -88,17 +100,7 @@ I enjoy ambiguity, take responsibility seriously, and learn aggressively.
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
 </p>
 
----
-
-### 🗄️ Databases & Warehousing
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Athena-232F3E?logo=amazonaws&logoColor=white"/>
-</p>
-
----
+<br/>
 
 ### 🔁 DevOps, CI/CD & Developer Tooling
 <p>
@@ -110,7 +112,7 @@ I enjoy ambiguity, take responsibility seriously, and learn aggressively.
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
 </p>
 
----
+<br/>
 
 ### 🌐 Frontend (Working Knowledge)
 <p>
@@ -119,16 +121,16 @@ I enjoy ambiguity, take responsibility seriously, and learn aggressively.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 </p>
 
----
+<br/>
 
 ## 🤝 Let’s Build
 
-I’m always excited to connect with **builders, founders, and engineers** who care about impact and execution.
+I’m always excited to connect with **builders, founders, and engineers** who care about impact, ownership, and execution.
 
 📧 **Email:** kadaliaswinkumar@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/kadaliaswinkumar/  
 🌐 **All links:** https://linktr.ee/kadaliaswinkumar  
 
----
+<br/>
 
 ⭐ *Always building. Always learning. Always raising the bar.*
