@@ -1,5 +1,5 @@
 ## Hi 👋 I’m Kadali Aswin Kumar  
-### Tech Innovator & Startup Builder | SDE I @Amagi | Data Science, AI & Full-Stack Enthusiast | Turning Big Ideas into Reality
+### Software Development Engineer (SDE-1) @ Amagi | Builder | Founder-Engineer Mindset  
 
 💡 **Dreamer. Builder. Doer.** 💡  
 
