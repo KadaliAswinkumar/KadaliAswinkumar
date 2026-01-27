@@ -21,7 +21,6 @@ I live at the intersection of **technology, scale, and entrepreneurship** — wh
   </a>
 </p>
 
-<br/>
 
 ## 🧠 About Me
 
